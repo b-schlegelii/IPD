@@ -1,5 +1,4 @@
-ID,,,,,
-,for,by,artist,editor,writer
+itemID,supportFor,supportFunder,supportArtist,supportEditor,supportWriter
 1,0,0,0,0,0
 2,,,,,
 3,,,,,
