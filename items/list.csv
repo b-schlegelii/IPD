@@ -6475,7 +6475,7 @@ ID,Name,Category,Rarity,Value
 6474,Tuftsi Coin,Coin,6,1000
 6475,Tuftsi Plush,Plushie,6,1000
 6476,Tuftsi Stamp,Stamp,6,1000
-6477,Tentacle Sword,Battle,6,1000
+6477,Tentacle Sword,Battle Item,6,1000
 6478,Blue Ring Tuftsi,Companion,6,1000
 6479,Sherbet Tuftsi,Companion,6,1000
 6480,Toon Tuftsi,Companion,6,1000
@@ -6495,26 +6495,26 @@ ID,Name,Category,Rarity,Value
 6494,Eggcellent Pun Book,Book,6,5000
 6495,Hatching Novitaria Profile Skin,Profile,6,5000
 6496,Ancient Dovu Tail Fan,Beauty,6,5000
-6497,Deadly Dovu Talons,Battle,6,5000
+6497,Deadly Dovu Talons,Battle Item,6,5000
 6498,Party Dovu Plushie,Plushie,3,871
 6499,Yogi's Stamp of Stamps,Stamp,3,973
 6500,Dart,Companion,6,1
-6501,Red Force Sword,Battle,3,1000
-6502,Blue Force Sword,Battle,3,1000
-6503,Green Force Sword,Battle,3,1000
+6501,Red Force Sword,Battle Item,3,1000
+6502,Blue Force Sword,Battle Item,3,1000
+6503,Green Force Sword,Battle Item,3,1000
 6504,Rainbow Dovu Morphing Potion,Morph,5,25000
 6505,Mr. Tambourine Audril Figurine,Figurine,1,122
 6506,French Horn Bolognese,Food,4,1150
 6507,Bag Pipes Ice Cube,Ice Cube,3,9890
 6508,Paint Your Own Didgeridoo,Toy,2,415
-6509,Guitar Knife,Battle,3,790
+6509,Guitar Knife,Battle Item,3,790
 6510,Rave Jakrit Morphing Potion,Morph,5,25000
 6511,Cosy Kiwi,Companion,3,972
 6512,Storm Herji,Companion,4,1262
 6513,Cowboy Orbie,Toy,2,498
 6514,Plushie Dovu Morphing Potion,Morph,5,25000
 6515,Royal Portable Pali,Toy,5,1572
-6516,Keri Eurodine Plush,Plush,5,1558
+6516,Keri Eurodine Plush,Plushie,5,1558
 6517,Cloudfruit,Food,1,136
 6518,Peranta,Food,2,493
 6519,Earthberry,Food,3,761
@@ -6530,7 +6530,7 @@ ID,Name,Category,Rarity,Value
 6529,Silver Chip,Team Chip,3,1
 6530,Yellow Chip,Team Chip,1,1
 6531,Team Chip,Team Chip,5,1
-6532,Toothpick Weapon,Battle,6,5000
+6532,Toothpick Weapon,Battle Item,6,5000
 6533,Achatice,Companion,6,5000
 6534,Minty Boat Sipper,Food,6,5000
 6535,???,None,0,0
