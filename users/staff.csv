@@ -1,4 +1,4 @@
-idNumber,idName,status,positionType,positionSubtype
+idNumber,idName,status,positionType,positionRank
 1178,IcePets,current,administrator,
 1623,IcePrincess,current,moderator,head
 1623,IcePrincess,current,admin,
