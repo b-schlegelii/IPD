@@ -1,1 +1,19 @@
-
+idNumber,idName,status,positionType,positionSubtype
+1178,IcePets,current,administrator,
+1623,IcePrincess,current,moderator,head
+1623,IcePrincess,current,admin,
+3860,Zig,current,moderator,
+9069,Ines,current,staff manager,
+9069,Ines,current,admin,
+109426,Silvy,current,moderator,
+116394,Judda,current,owner,
+116394,Judda,current,programmer,
+122040,Pixie,current,artist,
+123943,Travis,current,artist,
+125483,jolly,current,artist,pet
+128789,mochihugs,current,artist,head
+128789,mochihugs,current,admin,
+132386,smallsamoyed,current,writer,head
+132386,smallsamoyed,current,admin,
+133784,MarkiArts,current,artist,
+134072,tae,current,writer,
