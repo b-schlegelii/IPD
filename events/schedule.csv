@@ -1,6 +1,6 @@
-year,season,event2,event2,phase,startYear,startDay,endYear,endDay
-13,summer,Team Contest,,,13,237,13,TBA
-13,winter,Ansvin,Ansvin Pinata,,13,74,,
+year,season,event2,event2,#,phase,startYear,startDay,endYear,endDay
+13,summer,Team Contest,,,,13,237,13,TBA
+13,winter,Ansvin,Ansvin Pinata,2023,13,74,,
 13,winter,Ansvin,Pinata Mania,1,13,74,,
 13,winter,Ansvin,Pinata Mania,2,13,,,
 13,winter,Ansvin,stock,pinatas,13,77,,
