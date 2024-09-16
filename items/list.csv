@@ -1,4 +1,4 @@
-ID,Name,Category,Rarity,Value
+id,name,category,rarity,value
 1,???,None,0,0
 2,Ice Apple,Food,5,1921
 3,Green Apple,Food,1,165
@@ -1218,7 +1218,7 @@ ID,Name,Category,Rarity,Value
 1217,???,None,0,0
 1218,Pirate Jakrit Morphing Potion,Morph,5,10000
 1219,Ninja Novitegg Ice Cube,Ice Cube,3,1000
-1220,Golden Freakshake,Food,4,400000
+1220,Golden Quirkshake,Food,4,400000
 1221,Pancakes with Suspicious Sauce,Food,4,1000
 1222,The Extinct Salad of Halipar,Food,4,614760
 1223,???,None,0,0
@@ -1818,7 +1818,7 @@ ID,Name,Category,Rarity,Value
 1817,Quest Extender,Misc,4,6500
 1818,Ancient Ridix Morphing Potion,Morph,5,9000
 1819,Ancient Jakrit Morphing Potion,Morph,5,9000
-1820,Space Wulfer Helmet,Morph,5,20000
+1820,Space Wulfer Morphing Potion,Morph,5,20000
 1821,???,None,0,0
 1822,???,None,0,0
 1823,???,None,0,0
@@ -2363,8 +2363,8 @@ ID,Name,Category,Rarity,Value
 2362,Refer New Players Stamp,Stamp,4,5000
 2363,Referral Os Cereal,Food,4,5000
 2364,Refer a Friend,Book,4,5000
-2365,Referral Ice Cube,Ice Cube,4,5000
-2366,Cuddly Capsule 1,Misc,2,1000
+2365,Referral Ice Cube,Misc,2,1000
+2366,Cuddly Capsule 1,Misc,5,1000
 2367,Cuddly Capsule 2,Misc,5,1000
 2368,Cuddly Capsule 3,Misc,5,1000
 2369,Cuddly Capsule 4,Misc,5,1000
@@ -2372,11 +2372,11 @@ ID,Name,Category,Rarity,Value
 2371,Cuddly Capsule 6,Misc,5,1000
 2372,Cuddly Capsule 7,Misc,5,1000
 2373,Cuddly Capsule 8,Misc,5,1000
-2374,Cuddly Capsule 9,Misc,5,1000
+2374,Cuddly Capsule 9,Plushie,5,1000
 2375,Cuddly Opossum Plush,Plushie,5,1000
 2376,Cuddly Arctic Wolf Plush,Plushie,5,1000
-2377,Cuddly Snake Plush,Plushie,5,1000
-2378,???,None,0,0
+2377,Cuddly Snake Plush,Ice Cube,4,5000
+2378,???,Plushie,5,1000
 2379,Cuddly Sheep Plush,Plushie,5,1000
 2380,Cuddly Horse Plush,Plushie,5,1000
 2381,Cuddly Chicken Plush,Plushie,5,1000
@@ -3900,7 +3900,7 @@ ID,Name,Category,Rarity,Value
 3899,Old Green Hag Costume Set,Beauty,5,1709
 3900,Curious Mole Hill Stamp,Stamp,4,1064
 3901,Dreamworld Makoat Morphing Potion,Morph,5,10000
-3902,Unicorn Freakshake,Food,2,1200
+3902,Unicorn Quirkshake,Food,2,1200
 3903,Imanti,Companion,6,1
 3904,Pinata Earmuffs,Beauty,6,4500
 3905,Pinata Sharshel Figurine,Figurine,3,4500
@@ -5003,7 +5003,7 @@ ID,Name,Category,Rarity,Value
 5002,Spritely Snow Cone,Food,5,1
 5003,Holiday Pride Sweater,Beauty,6,1
 5004,Snow Sprite Pull Along,Toy,6,1
-5005,Snow Sprite,Ice Cube,2,5000
+5005,Snow Sprite,Companion,6,1
 5006,Snow Sprite Photobomb Stamp,Stamp,6,1
 5007,Snow Sprite Cottoncandy,Food,6,1
 5008,Snow Sprite Balloon,Toy,6,1
@@ -5038,8 +5038,8 @@ ID,Name,Category,Rarity,Value
 5037,Mason Jar Blackberry Jam,Food,4,1325
 5038,Farmer Lugra Figurine,Figurine,3,754
 5039,Pull String Float Toy,Toy,5,5000
-5040,Parade Candy Bucket,Food,5,5000
-5041,Lugra Onigiri,Food,3,746
+5040,Parade Candy Bucket,Food,3,746
+5041,Lugra Onigiri,Food,5,5000
 5042,Wabby,Companion,5,5000
 5043,Snack Stamp,Stamp,5,5000
 5044,Buddip,Companion,5,5000
@@ -5134,7 +5134,7 @@ ID,Name,Category,Rarity,Value
 5133,Paint Bucket Ice Cube,Ice Cube,6,1000
 5134,Rainbow Jakrit Figurine,Figurine,6,1000
 5135,Lickety,Companion,6,1000
-5136,Split,Food,2,241
+5136,Split,Companion,6,1000
 5137,Ori Timer,Toy,5,5000
 5138,Flowery Headband,Beauty,5,5000
 5139,Organic Honey,Food,5,5000
@@ -5475,29 +5475,29 @@ ID,Name,Category,Rarity,Value
 5474,An Unexpected Change,Book,5,5000
 5475,Raither,Companion,5,5000
 5476,Feather Coin,Coin,1,136
-5477,Peacock Fruit Platter,Food,2,413
-5478,Jellyfish Trading Card,Trading Card,5,5000
-5479,Shark Tooth Ice Cube,Ice Cube,4,5000
-5480,Deep Sea Stamp,Stamp,3,965
-5481,Shy Tuftsi,Companion,4,1400
-5482,Seashell Stamp,Stamp,5,5000
-5483,Oyster Ice Cube,Ice Cube,5,5000
-5484,Starfish Hair Clip,Beauty,1,400
-5485,A Trip To The Beach,Book,4,1268
-5486,Slime Squeeze Toy,Toy,5,5000
-5487,Power Cherries,Food,5,5000
-5488,Surprise Cube,Ice Cube,3,7065
-5489,Boomerang,Battle Item,2,695
-5490,Hedge Maze Stamp,Stamp,5,5000
-5491,Audrey III,Companion,5,5000
-5492,Creepy Doll Trading Card,Trading Card,4,1125
-5493,Weekly Terrafrost News,Book,2,668
-5494,Dovu Croquet Mallet,Battle Item,5,5000
-5495,Bowls of Porridge,Food,5,5000
-5496,Ruby Red Shoes,Beauty,3,777
-5497,Red Hooded Novyn Figurine,Figurine,1,453
-5498,TerraBall,Battle Item,5,5000
-5499,Just 50 IP,Book,5,5000
+5477,Peacock Fruit Platter,Trading Card,5,5000
+5478,Jellyfish Trading Card,Ice Cube,4,5000
+5479,Shark Tooth Ice Cube,Stamp,3,965
+5480,Deep Sea Stamp,Companion,4,1400
+5481,Shy Tuftsi,Stamp,5,5000
+5482,Seashell Stamp,Ice Cube,5,5000
+5483,Oyster Ice Cube,Beauty,1,400
+5484,Starfish Hair Clip,Book,4,1268
+5485,A Trip To The Beach,Toy,5,5000
+5486,Slime Squeeze Toy,Food,5,5000
+5487,Power Cherries,Ice Cube,3,7065
+5488,Surprise Cube,Battle Item,2,695
+5489,Boomerang,Stamp,5,5000
+5490,Hedge Maze Stamp,Companion,5,5000
+5491,Audrey III,Trading Card,4,1125
+5492,Creepy Doll Trading Card,Book,2,668
+5493,Weekly Terrafrost News,Battle Item,5,5000
+5494,Dovu Croquet Mallet,Food,5,5000
+5495,Bowls of Porridge,Beauty,3,777
+5496,Ruby Red Shoes,Figurine,1,453
+5497,Red Hooded Novyn Figurine,Battle Item,5,5000
+5498,TerraBall,Book,5,5000
+5499,Just 50 IP,Food,2,413
 5500,Gumbaffy,Food,2,333
 5501,Wulfer-In-The-Box Stamp,Stamp,3,834
 5502,Aurestal Microbe Plush,Plushie,3,710
@@ -5549,7 +5549,7 @@ ID,Name,Category,Rarity,Value
 5548,Cottoncandy Ducky,Toy,1,334
 5549,Cubed Ducky,Toy,3,956
 5550,Dreamworld Ducky,Toy,4,3701
-5551,Dead Evil Ducky,Stamp,1,3000000
+5551,Dead Evil Ducky,Toy,1,3000000
 5552,You Quack Me Up Stamp,Stamp,3,1145
 5553,Mythical Horn Trumpet,Battle Item,6,1000
 5554,Mythical Horn Trumpet Ice Cube,Ice Cube,6,1000
@@ -5575,11 +5575,11 @@ ID,Name,Category,Rarity,Value
 5574,Passionate Poetry,Book,4,2453
 5575,Spud,Companion,2,465
 5576,Mythical Makoat Plushie,Plushie,4,2065
-5577,Pineapple,Food,6,500
-5578,Watermelon,Food,3,1090
-5579,Corn,Battle Item,7,500
+5577,Pineapple,Food,2,753
+5578,Watermelon,Food,3,820
+5579,Corn,Food,1,432
 5580,Dragon Fruit,Food,4,1005
-5581,Avocado,Food,1,625
+5581,Avocado,Food,3,931
 5582,Eggplant,Food,2,622
 5583,White Ratbe,Companion,4,2336
 5584,Brown Ratbe,Companion,1,735
@@ -5590,14 +5590,14 @@ ID,Name,Category,Rarity,Value
 5589,Shiitake Mushroom,Food,2,655
 5590,Worst Pie in Terrafrost,Food,6,1
 5591,Dreamworld Novitegg,Novitegg,4,500
-5592,Dreamworld Novitegg Ice Cube,Ice Cube,3,1000
+5592,Dreamworld Novitegg Ice Cube,Plushie,3,866
 5593,Empty Dreamworld Novitegg,Empty Novitegg,6,250
 5594,Fairy Novitegg,Novitegg,4,500
 5595,Fairy Novitegg Ice Cube,Ice Cube,3,1000
 5596,Empty Fairy Novitegg,Empty Novitegg,6,250
-5597,Woodland Novitegg,Novitegg,4,500
-5598,Woodland Novitegg Ice Cube,Ice Cube,3,1000
-5599,Empty Woodland Novitegg,Empty Novitegg,6,250
+5597,Woodland Novitegg,Ice Cube,3,1000
+5598,Woodland Novitegg Ice Cube,Empty Novitegg,6,250
+5599,Empty Woodland Novitegg,Ice Cube,3,1000
 5600,Bottled Dreams,Battle Item,6,1000
 5601,Dreamy Weighted Blanket,Beauty,6,1000
 5602,Nightlight,Ice Cube,5,9999
@@ -5724,7 +5724,7 @@ ID,Name,Category,Rarity,Value
 5723,Yellow Spard Plush,Plushie,6,1000
 5724,Fluffy Mateeni,Companion,6,1
 5725,Empty Ice Snow Jar,Misc,6,5000
-5726,Rainbow Freakshake,Food,3,1883
+5726,Rainbow Quirkshake,Food,3,1883
 5727,Dreamworld Lugra Plushie,Plushie,2,772
 5728,Blue Token Plush,Plushie,1,384
 5729,Bronze Token Plush,Plushie,3,1223
@@ -5794,7 +5794,7 @@ ID,Name,Category,Rarity,Value
 5793,Pinata Ducky Stamp,Stamp,3,1142
 5794,Prankster Ducky Stamp,Stamp,2,799
 5795,Space Ducky Stamp,Stamp,4,1964
-5796,???,None,0,0
+5796,???,Figurine,6,1000
 5797,Ice Snow Jar,Morph,5,5000
 5798,Snowslide Discovery Avatar,Avatar,5,5000
 5799,Fall into Autumn Profile Skin,Profile Skin,5,5000
@@ -5825,7 +5825,7 @@ ID,Name,Category,Rarity,Value
 5824,Mac N Cheese Meal,Food,3,1022
 5825,Sweet Present,Openable,2,666
 5826,Spicy Cinnamon Sticks,Battle Item,6,5000
-5827,Phantasmoire Freakshake,Food,5,5000
+5827,Phantasmoire Quirkshake,Food,5,5000
 5828,Candy Wrapper Ice Cube,Ice Cube,6,5000
 5829,Sweet Tooth Traptur Plush,Plushie,6,5000
 5830,Candy Scented Stamp,Stamp,6,5000
@@ -5925,7 +5925,7 @@ ID,Name,Category,Rarity,Value
 5924,Polaris,Companion,6,5000
 5925,Fur-bearing Trout Ice Cube,Ice Cube,6,5000
 5926,Traditional Cloudberry Mug,Food,5,5000
-5927,???,None,0,0
+5927,Changing Winters,Book,6,5000
 5928,Soggy Snow Stamp,Stamp,6,5000
 5929,Frozen Mitts,Beauty,6,5000
 5930,Winter Scene Trading Card,Trading Card,6,5000
@@ -6106,9 +6106,9 @@ ID,Name,Category,Rarity,Value
 6105,Tres Card Game,Toy,2,437
 6106,Frozen Tower,Ice Cube,5,5000
 6107,Hipow,Companion,5,5773
-6108,Wabby Profile Skin,Profile Skin,5,5000
-6109,Sizzle Stamp,Stamp,5,5000
-6110,Summer Traptur Plush,Plushie,5,5000
+6108,Wabby Profile Skin,Stamp,5,5000
+6109,Sizzle Stamp,Plushie,5,5000
+6110,Summer Traptur Plush,Profile Skin,5,5000
 6111,Lifesaver Coin,Coin,6,5000
 6112,Vacation Ridix Plush,Plushie,6,5000
 6113,Tech Trido Morphing Potion,Morph,5,20000
@@ -6140,16 +6140,16 @@ ID,Name,Category,Rarity,Value
 6139,Space Fairy Figurine,Figurine,1,273
 6140,Earth Fairy Figurine,Figurine,1,196
 6141,Ice Fairy Figurine,Figurine,2,493
-6142,Fairy King Plushie,Plushie,3,734
+6142,Fairy King Plush,Plushie,3,734
 6143,Fairy King Figurine,Figurine,3,811
-6144,Rainbow Fairy Figurine,Figurine,5,1273
-6145,Shali-lo Plushie,Plushie,1,228
+6144,Rainbow Fairy King Figurine,Figurine,5,1273
+6145,Shali-lo Plush,Plushie,1,228
 6146,History Of The Spard,Book,6,1000
 6147,Champ Plush,Plushie,6,1000
 6148,Biggest Team Blue Audril Fan Stamp,Stamp,6,1000
-6149,Biggest Team Green Audril Fan Stamp,Stamp,6,1000
-6150,Biggest Team Red Audril Fan Stamp,Stamp,6,1000
-6151,Biggest Team Yellow Audril Fan Stamp,Stamp,6,1000
+6149,Biggest Team Green Trido Fan Stamp,Stamp,6,1000
+6150,Biggest Team Red Dovu Fan Stamp,Stamp,6,1000
+6151,Biggest Team Yellow Sharshel Fan Stamp,Stamp,6,1000
 6152,Team Blue Audril Party Trading Card,Trading Card,6,1000
 6153,Team Green Trido Party Trading Card,Trading Card,6,1000
 6154,Team Red Dovu Party Trading Card,Trading Card,6,1000
@@ -6160,9 +6160,9 @@ ID,Name,Category,Rarity,Value
 6159,Yellow Spard Figurine,Figurine,6,1000
 6160,Blue Spard Figurine,Figurine,6,1000
 6161,Wizhound,Companion,6,1
-6162,Orc Plushie,Plushie,5,5000
+6162,Orc Plush,Plushie,5,5000
 6163,Guafuu,Companion,5,5000
-6164,Unicorn Cotton,Food,1,200
+6164,Unicorn Cotton Candy,Food,1,200
 6165,Werewolf Shampoo & Conditioner,Beauty,2,437
 6166,Red Flingo,Companion,1,398
 6167,Orange Flingo,Companion,2,693
@@ -6173,7 +6173,7 @@ ID,Name,Category,Rarity,Value
 6172,Pink Flingo,Companion,2,548
 6173,Fairy Flingo,Companion,5,1799
 6174,Rainbow Flingo,Companion,6,1582
-6175,Dark Fairy Figure,Figurine,1,187
+6175,Dark Fairy Figurine,Figurine,1,187
 6176,Dreamworld Zabeu Carousel,Toy,1,399
 6177,Plushie Krittle Morphing Potion,Morph,5,25000
 6178,Fluttermouse,Companion,1,547
@@ -6182,12 +6182,12 @@ ID,Name,Category,Rarity,Value
 6181,Blue Chalk,Toy,2,348
 6182,Yellow Chalk,Toy,2,305
 6183,White Chalk,Toy,3,511
-6184,Frozen Rainbow Chalk,Ice Cube,5,5000
+6184,Rainbow Chalk Ice Cube,Ice Cube,5,5000
 6185,Icosahedron of Destiny,Battle Item,5,5000
 6186,Cobrons and Catacombs,Toy,3,1093
 6187,Battle Board Stamp,Stamp,5,5000
 6188,Observer,Companion,4,4937
-6189,Super Caramel Frappuccino,Food,6,1
+6189,Super Caramel Frappe,Food,6,1
 6190,Pirate Xephyr Morphing Potion,Morph,4,400000
 6191,Garish Necktie,Beauty,5,2732
 6192,Ducky Soap,Beauty,2,433
@@ -6253,7 +6253,7 @@ ID,Name,Category,Rarity,Value
 6252,Haunting Stamp,Stamp,6,888
 6253,2022 Anniversary Audril Figurine,Figurine,6,2022
 6254,Drink of Divinity,Food,5,4632
-6255,Fairy Freakshake,Food,2,334
+6255,Fairy Quirkshake,Food,2,334
 6256,Ice Princess Costume,Beauty,1,299
 6257,Rusted Grappling Hook Plush,Plushie,1,206
 6258,Copper Grappling Hook Plush,Plushie,2,492
@@ -6315,7 +6315,7 @@ ID,Name,Category,Rarity,Value
 6314,Festive Handmade Trading Card,Trading Card,6,1
 6315,Gnomore and Gnoless Plush,Plushie,6,1
 6316,The Attic Stack Decoration Pack,Openable,6,1
-6317,Deep Submerge Mirror,Battle item,6,1
+6317,Deep Submerge Mirror,Battle Item,6,1
 6318,Wax Warmer,Battle Item,6,5000
 6319,Heated Flokie Plush,Plushie,6,5000
 6320,Redeem Hug Coin,Coin,2,300
@@ -6329,7 +6329,7 @@ ID,Name,Category,Rarity,Value
 6328,Baby Stacking Toy,Toy,6,2023
 6329,Bib Armour,Battle Item,6,2023
 6330,Candy Pacifier Lollipop,Food,5,2023
-6331,Chewy Necklace,Beauty,6,2023
+6331,Pastel Chew Necklace,Beauty,6,2023
 6332,My First Vroom Stamp,Stamp,6,2023
 6333,Terrafrost's Most Popular Baby Names 2022,Book,6,2023
 6334,Sleeping Baby Dabu Plush,Plushie,6,2023
@@ -6340,7 +6340,7 @@ ID,Name,Category,Rarity,Value
 6339,Ancient Sharshel Plushie,Plushie,3,1030
 6340,Toon Ridix Plushie,Plushie,2,670
 6341,Beneu,Companion,6,2023
-6342,Party Invitation Trading Card,Trading card,6,2023
+6342,Party Invitation Trading Card,Trading Card,6,2023
 6343,Balloon Hat,Beauty,6,2023
 6344,Party Kazoo,Toy,6,2023
 6345,Ducktail,Food,5,2023
@@ -6411,44 +6411,44 @@ ID,Name,Category,Rarity,Value
 6410,Chortles,Food,5,1111
 6411,Dot Painting Mandala Coin,Coin,6,1111
 6412,Scorpio Plush,Plushie,4,1244
-6413,Slimy Slug Plush,Plushie,2,339
-6414,Adorable Black Ant Plush,Plushie,4,594
-6415,Adorable Red Ant Plush,Plushie,4,742
-6416,Busy Beetle Plush,Plushie,3,1526
-6417,Holstein Cowboy Vest,Beauty,3,162
-6418,Ayrshire Cowboy Vest,Beauty,3,422
+6413,Slimy Slug Plush,Plushie,1,339
+6414,Adorable Black Ant Plush,Plushie,2,594
+6415,Adorable Red Ant Plush,Plushie,3,742
+6416,Busy Beetle Plush,Plushie,5,1526
+6417,Holstein Cowboy Vest,Beauty,1,162
+6418,Ayrshire Cowboy Vest,Beauty,2,422
 6419,Shorthorn Cowboy Vest,Beauty,3,952
-6420,Brown Cowboy Boots,Beauty,3,1145
-6421,Black Cowboy Boots,Beauty,3,1323
-6422,Glee Meal,Food,2,819
-6423,Meh Meal,Food,2,141
+6420,Brown Cowboy Boots,Beauty,4,1145
+6421,Black Cowboy Boots,Beauty,5,1323
+6422,Glee Meal,Food,3,819
+6423,Meh Meal,Food,1,141
 6424,Rage Meal,Food,2,599
-6425,Username Changer,Misc,2,12500
-6426,Cheesy Poems 2023,Book,3,1655
-6427,Isles Past,Book,2,993
-6428,Toy Chariot,Toy,2,220
-6429,Red Toga,Beauty,2,2193
-6430,Black Toga,Beauty,2,1005
+6425,Username Changer,Misc,6,12500
+6426,Cheesy Poems 2023,Book,5,1655
+6427,Isles Past,Book,3,993
+6428,Toy Chariot,Toy,1,220
+6429,Red Toga,Beauty,4,2193
+6430,Black Toga,Beauty,3,1005
 6431,White Toga,Beauty,2,766
 6432,Beauty King Ducky,Toy,3,913
-6433,Gamer Techie,Companion,2,5000
-6434,Angelic Freakshake,Food,2,2073
+6433,Gamer Techie,Companion,6,5000
+6434,Angelic Quirkshake,Food,4,2073
 6435,Fairy Xephyr Morphing Potion,Morph,4,400000
-6436,Mythical Ice Cube,Ice Cube,3,14235
-6437,Rave Ice Cube,Ice Cube,3,9572
+6436,Mythical Ice Cube,Ice Cube,5,14235
+6437,Rave Ice Cube,Ice Cube,4,9572
 6438,Toon Ice Cube,Ice Cube,3,5547
-6439,Ice Ice Cube,Ice Cube,3,3648
-6440,Ancient Krittle Morphing Potion,Morph,4,15000
+6439,Ice Ice Cube,Ice Cube,2,3648
+6440,Ancient Krittle Morphing Potion,Morph,5,15000
 6441,Tech Xephyr Morphing Potion,Morph,2,400000
-6442,Toon Microbe Plush,Plushie,3,95
-6443,Rave Microbe Plush,Plushie,3,518
+6442,Toon Microbe Plush,Plushie,1,95
+6443,Rave Microbe Plush,Plushie,2,518
 6444,Phantasmoire Microbe Plush,Plushie,3,978
 6445,White Microbe Plush,Plushie,3,732
-6446,Dreamworld Microbe Plush,Plushie,3,1369
-6447,Black Microbe Plush,Plushie,3,1528
+6446,Dreamworld Microbe Plush,Plushie,4,1369
+6447,Black Microbe Plush,Plushie,5,1528
 6448,Fairy Wand,Battle Item,6,1
-6449,Prankster Dartboard Stamp,Stamp,6,5000
-6450,Prankster Makeup,Beauty,6,5000
+6449,Prankster Dartboard Stamp,Stamp,3,6000
+6450,Prankster Makeup,Beauty,3,6000
 6451,How to Be a Prankster,Book,2,348
 6452,Prankster Fake Spider Ice Cube,Ice Cube,2,1300
 6453,Dreamworld Jakrit Morphing Potion,Morph,5,10000
@@ -6483,17 +6483,17 @@ ID,Name,Category,Rarity,Value
 6482,Flowery Latte Plush,Plushie,6,5000
 6483,Dandelion Bath Bomb,Beauty,6,5000
 6484,Crystal Makoat Morphing Potion,Morph,5,10000
-6485,Evil Lugra Morphing Potion,Morph,5,20000
+6485,Evil Lugra Morphing Potion,Morph,5,10000
 6486,Pinnie,Companion,4,1195
 6487,Elysia,Companion,3,804
-6488,Chimero-Matic,Companion,3,730
-6489,Steamboat Snuffy,Companion,2,650
+6488,Chimero-Matic,Companion,2,650
+6489,Steamboat Snuffy,Companion,3,730
 6490,Scubea,Companion,2,624
 6491,Rainy Day Figurine,Figurine,6,5000
 6492,Downpour Ice Cube,Ice Cube,6,5000
 6493,Novitegg Painting Trading Card,Trading Card,6,5000
 6494,Eggcellent Pun Book,Book,6,5000
-6495,Hatching Novitaria Profile Skin,Profile,6,5000
+6495,Hatching Novitaria Profile Skin,Profile Skin,6,5000
 6496,Ancient Dovu Tail Fan,Beauty,6,5000
 6497,Deadly Dovu Talons,Battle Item,6,5000
 6498,Party Dovu Plushie,Plushie,3,871
@@ -6533,7 +6533,7 @@ ID,Name,Category,Rarity,Value
 6532,Toothpick Weapon,Battle Item,6,5000
 6533,Achatice,Companion,6,5000
 6534,Minty Boat Sipper,Food,6,5000
-6535,???,None,0,0
+6535,Masked Palsy,Companion,3,842
 6536,Pupple,Companion,6,1
 6537,Rainbow Metallic Ice Cube,Ice Cube,4,2347
 6538,After the Rain Trading Card,Trading Card,2,334
@@ -6541,3 +6541,357 @@ ID,Name,Category,Rarity,Value
 6540,Dashing Zabeu Figurine,Figurine,6,5000
 6541,Rhed,Companion,6,5000
 6542,Self-Served Dip,Food,5,5000
+6543,Paufie Palsy,Companion,6,1
+6544,Sparklers,Toy,3,873
+6545,Fruit Rocket,Food,3,750
+6546,Firework Hair Pin,Beauty,3,6000
+6547,Novyn Firework Launcher,Battle Item,6,5000
+6548,Team Blue Audril Pizza Slice,Food,5,1000
+6549,Team Red Dovu Pizza Slice,Food,5,1000
+6550,Team Green Trido Pizza Slice,Food,5,1000
+6551,Team Yellow Sharshel Pizza Slice,Food,5,1000
+6552,Team Blue Audril Wig,Beauty,5,1000
+6553,Team Green Trido Wig,Beauty,5,1000
+6554,Team Red Dovu Wig,Beauty,5,1000
+6555,Team Yellow Sharshel Wig,Beauty,5,1000
+6556,Team Green Trido Ice Cube,Ice Cube,6,1000
+6557,Team Blue Audril Ice Cube,Ice Cube,6,1000
+6558,Team Red Dovu Ice Cube,Ice Cube,6,1000
+6559,Team Yellow Sharshel Ice Cube,Ice Cube,6,1000
+6560,Decadent Dessert Pizza,Food,5,1000
+6561,Rainbow Wig,Beauty,6,1000
+6562,Shredded Confetti Stamp,Stamp,6,1000
+6563,Floaty,Toy,1,152
+6564,Frozen Floaty,Ice Cube,3,1000
+6565,Expensive Faulty Sunscreen,Beauty,5,1747
+6566,Soggy Hotdog,Food,2,451
+6567,Waterpark Stamp,Stamp,3,729
+6568,Lemon Break,Food,3,970
+6569,Type-Block Ice Cube,Ice Cube,1,320
+6570,Ole Flying Saucer Ice Cube,Ice Cube,2,668
+6571,Frozen Prism,Ice Cube,3,935
+6572,Yellow Submarine Ice Cube,Ice Cube,4,1095
+6573,Black Cobron Vol 4 Tank-Tee,Beauty,4,1363
+6574,Hissy,Book,1,274
+6575,Dragonolollogy,Food,2,339
+6576,Chump Change,Companion,3,959
+6577,Dunce-Farce Figure,Toy,4,1250
+6578,Pelmer,Toy,5,1618
+6579,First Time Swimmer Trido Plush,Plushie,3,779
+6580,Fisheep,Companion,4,1028
+6581,Pool Noodle Nunchucks,Battle Item,5,1569
+6582,Wacky Button-Up,Beauty,6,1
+6583,Constellations Ice Cube,Ice Cube,3,6000
+6584,Moonflower Stamp,Stamp,3,6000
+6585,Starry Night Trading Card,Trading Card,5,1782
+6586,Star Wizard Hat,Beauty,5,1692
+6587,Searcher Ducky,Toy,3,482
+6588,Literature Fairy Figurine,Figurine,1,237
+6589,Healing Fairy Figurine,Figurine,1,134
+6590,Music Fairy Figurine,Figurine,2,360
+6591,Dance Fairy Figurine,Figurine,3,423
+6592,Mindfulness Fairy Figurine,Figurine,4,560
+6593,Pencil,Toy,1,120
+6594,Mosaic Scrunchie,Beauty,1,200
+6595,Zabeu Scrunchie,Beauty,4,713
+6596,Fun Floor Pattern Scrunchie,Beauty,3,313
+6597,Wonton Soup,Food,3,614
+6598,Wonton Soup Stamp,Stamp,1,103
+6599,Frozen Wonton Soup,Ice Cube,3,1614
+6600,Soup Lovers Figurine,Figurine,2,378
+6601,Chop Sticks,Battle Item,2,250
+6602,Whimsical Notebook,Book,1,135
+6603,Classic Notebook,Book,1,120
+6604,Colourful Notebook,Book,1,140
+6605,Popper,Toy,1,237
+6606,Lugra Squishy Toy,Toy,2,312
+6607,Brick Chew Necklace,Beauty,2,300
+6608,Sensory Ice Cube,Ice Cube,2,1200
+6609,Sequin Pillow,Toy,3,510
+6610,Fidget Spinner,Toy,2,222
+6611,Sensory Book,Book,1,200
+6612,Light Fairy Plush,Plushie,2,485
+6613,Light Fairy Stamp,Stamp,2,348
+6614,Love of Tomorrow,Book,2,350
+6615,Metal Fairy Figurine,Figurine,3,600
+6616,Fire Fairy Figurine,Figurine,1,200
+6617,Wind Fairy Figurine,Figurine,1,400
+6618,Fairy Queen Figurine,Figurine,4,1500
+6619,Fairy Queen Plush,Plushie,3,500
+6620,Commemorative Royal Fairy Stamp,Stamp,5,2124
+6621,Stardance,Companion,5,5000
+6622,Hot Water Bottle,Toy,3,475
+6623,Mountain Dragon,Companion,3,1100
+6624,All The Places You'll Never Go!,Book,1,379
+6625,Tummy Rumbler,Battle Item,1,333
+6626,TASA Sweater,Beauty,3,450
+6627,Fairy Slippers,Beauty,6,1
+6628,Scurvy Prevention Cake,Food,5,5000
+6629,Nautical Nuisance,Companion,5,5000
+6630,Dyr Figurine,Figurine,3,1000
+6631,Pirate Lantern,Toy,2,333
+6632,Leaf Pie,Food,2,265
+6633,Stormy View Trading Card,Trading Card,2,300
+6634,Rainy Day Wulfer Plush,Plushie,3,600
+6635,Muck,Misc,6,5000
+6636,Chilly Muck,Misc,6,5000
+6637,Moving Muck,Misc,6,5000
+6638,Gunk,Misc,6,5000
+6639,Chilly Gunk,Misc,6,5000
+6640,Moving Gunk,Misc,6,5000
+6641,Ladon,Companion,6,5000
+6642,Black Ladon,Companion,6,5000
+6643,Turquoise Ladon,Companion,6,5000
+6644,Snowdrift Ladon,Companion,6,5000
+6645,Pink Ladon,Companion,6,5000
+6646,Mythical Ladon,Companion,6,5000
+6647,Imit,Companion,6,5000
+6648,Blue Imit,Companion,6,5000
+6649,Soggy Evil Novyn Plush,Plushie,6,5000
+6650,Soggy Baby Sharshel Plush,Plushie,6,5000
+6651,Soggy Love Trido Plush,Plushie,6,5000
+6652,Soggy Mythical Ridix Plush,Plushie,6,5000
+6653,Soggy Plushie Traptur Plush,Plushie,6,5000
+6654,Soggy Fairy Wulfer Plush,Plushie,6,5000
+6655,Soggy Autumn Ori Plush,Plushie,6,5000
+6656,Soggy Rave Xephyr Plush,Plushie,6,5000
+6657,Soggy Tech Zabeu Plush,Plushie,6,5000
+6658,Soggy Aurestal Dabu Plush,Plushie,6,5000
+6659,Soggy Dreamworld Lugra Plush,Plushie,6,5000
+6660,Soggy Groovy Jakrit Plush,Plushie,6,5000
+6661,Soggy Ice Cobron Plush,Plushie,6,5000
+6662,Soggy Pinata Makoat Plush,Plushie,6,5000
+6663,Soggy Rainbow Audril Plush,Plushie,6,5000
+6664,Soggy Space Dovu Plush,Plushie,6,5000
+6665,Soggy Woodland Krittle Plush,Plushie,6,5000
+6666,Aquatic Staff,Battle Item,6,5000
+6667,Gone Fishing Stamp,Stamp,6,5000
+6668,Snapping Seafood Salad,Food,5,5000
+6669,White Imit,Companion,6,5000
+6670,Yellow Imit,Companion,6,5000
+6671,Red Imit,Companion,6,5000
+6672,Skeletal Imit,Companion,6,5000
+6673,Teuligo,Companion,6,5000
+6674,Green Teuligo,Companion,6,5000
+6675,Purple Teuligo,Companion,6,5000
+6676,Orange Teuligo,Companion,6,5000
+6677,Turquoise Teuligo,Companion,6,5000
+6678,Dreamworld Teuligo,Companion,6,5000
+6679,Equea,Companion,6,5000
+6680,Red Equea,Companion,6,5000
+6681,Green Equea,Companion,6,5000
+6682,Pink Equea,Companion,6,5000
+6683,Grey Equea,Companion,6,5000
+6684,Fairy Equea,Companion,6,5000
+6685,Lake Bloom,Companion,6,5000
+6686,Yellow Lake Bloom,Companion,6,5000
+6687,Brown Lake Bloom,Companion,6,5000
+6688,Glacial Lake Bloom,Companion,6,5000
+6689,Cottoncandy Lake Bloom,Companion,6,5000
+6690,Plushie Lake Bloom,Companion,6,5000
+6691,Muck Ice Cube,Ice Cube,6,5000
+6692,Aquatic Snow Jar,Morph,6,5000
+6693,Aquatic Lugra Morphing Potion,Morph,6,5000
+6694,Aquatic Ori Morphing Potion,Morph,6,5000
+6695,Aquatic Ridix Morphing Potion,Morph,6,5000
+6696,Aquatic Krittle Morphing Potion,Morph,6,5000
+6697,Pizza I.C.E Avatar,Avatar,5,5000
+6698,Crystal Makoat Plushie,Plushie,2,750
+6699,Dreamworld Quirkshake,Food,3,998
+6700,Pasta Salad,Food,1,300
+6701,Jack-O-Melon,Food,3,1020
+6702,Acorn Tea Set,Toy,6,5000
+6703,Hunting Jacket,Beauty,6,5000
+6704,Guitar I.C.E Avatar,Avatar,5,5000
+6705,Equea Lure,Fishing Lure,3,1154
+6706,Imit Lure,Fishing Lure,2,574
+6707,Ladon Lure,Fishing Lure,4,5018
+6708,Teuligo Lure,Fishing Lure,2,743
+6709,Lake Bloom Lure,Fishing Lure,3,1850
+6710,Simple Colour Lure,Fishing Lure,2,829
+6711,Patterned Colour Lure,Fishing Lure,3,1646
+6712,Marvelous Colour Lure,Fishing Lure,4,4017
+6713,Alluring Information,Book,6,6000
+6714,Brown Esca,Companion,6,5000
+6715,Pink Esca,Companion,6,5000
+6716,Turquoise Esca,Companion,6,5000
+6717,Yellow Esca,Companion,6,5000
+6718,Chilly Gunk Ice Cube,Ice Cube,6,5000
+6719,Chilly Muck Ice Cube,Ice Cube,6,5000
+6720,Gunk Ice Cube,Ice Cube,6,5000
+6721,Moving Gunk Ice Cube,Ice Cube,6,5000
+6722,Moving Muck Ice Cube,Ice Cube,6,5000
+6723,Life is the Bubbles Profile Skin,Profile Skin,6,5000
+6724,Aquatic Avatar,Avatar,1,5000
+6725,Gone Haunting Krittle Plush,Plushie,6,1
+6726,Radioactive Lipstick,Beauty,6,1000
+6727,Mad Scientist Dabu Plush,Plushie,6,1000
+6728,Potion Bottle Bombs,Battle Item,3,1274
+6729,Book Beyond Comprehension,Book,4,7113
+6730,Puffball,Companion,6,666
+6731,Sippy Beaker,Toy,6,5000
+6732,Sharp Present,Openable,4,666
+6733,Critical Painting,Toy,6,5000
+6734,Dastardly Ridix Mask,Beauty,6,5000
+6735,Bone Cracker Dovu Plush,Plushie,6,5000
+6736,Bloody Supershake,Food,5,5000
+6737,Dreadful Trido Figurine,Figurine,6,5000
+6738,Ominous Coin,Coin,6,5000
+6739,Sharpened Ice Cube,Ice Cube,6,5000
+6740,Malituus,Companion,6,5000
+6741,Bitey Avatar,Avatar,6,5000
+6742,Superior Sharshel Snacks,Food,6,666
+6743,Webbed Volleyball,Battle Item,6,666
+6744,Mysterious Van Trading Card,Trading Card,6,666
+6745,Frightly Stamp,Stamp,6,666
+6746,Fog Machine,Toy,6,666
+6747,Sinister Apron,Beauty,5,5000
+6748,Cobron-o-Lantern,Food,1,313
+6749,Dabu-o-Lantern,Food,2,546
+6750,Lugra-o-Lantern,Food,3,840
+6751,Traptur-o-Lantern,Food,4,1239
+6752,Flickering Jack-o-Lantern I.C.E Avatar,Avatar,5,5000
+6753,2023 Anniversary Cobron Figurine,Figurine,6,2023
+6754,Brown Khanusaa,Companion,5,5000
+6755,White Khanusaa,Companion,5,5000
+6756,2023 Scary Songs Book,Book,2,681
+6757,Skeletal Lugra Morphing Potion,Morph,5,20000
+6758,Skeletal Makoat Morphing Potion,Morph,5,20000
+6759,Opal Ice Cube,Ice Cube,5,1111
+6760,Beauty Burger,Food,5,1111
+6761,Quartz Morph,Companion,4,2500
+6762,Jade Sword,Battle Item,3,1990
+6763,Catrina Mask,Beauty,6,1
+6764,Pineapple Teapot,Toy,2,581
+6765,Caper,Companion,3,813
+6766,Angler Ducky,Toy,3,942
+6767,Brown Bevvle,Companion,6,5000
+6768,Bevvle Lure,Fishing Lure,3,1335
+6769,Esca Lure,Fishing Lure,2,812
+6770,Yellow Bevvle,Companion,6,5000
+6771,Blue Bevvle,Companion,6,5000
+6772,Storm Bevvle,Companion,6,5000
+6773,Spikearoni,Companion,6,1
+6774,Cactus Stamp,Stamp,5,1111
+6775,Barrel Cactus Plush,Plushie,5,1111
+6776,Rattler,Toy,5,1597
+6777,Succulent Coin,Coin,2,432
+6778,Artyx,Companion,5,2500
+6779,Mysterious Igloo Figurine,Figurine,5,2500
+6780,Ice Palace Coin,Ice Cube,5,2500
+6781,Knitted Socks,Beauty,6,5000
+6782,Old Cookie Tin,Openable,6,5000
+6783,Aurestal Cookie Coin,Coin,6,5000
+6784,Grandma's Helper,Companion,6,5000
+6785,Vintage Aurestal Jakrit Plushie,Plushie,1,5000
+6786,Auntie's Pudding,Food,6,5000
+6787,Mum's Singing Auroras,Toy,6,5000
+6788,Jaggle Plush,Plushie,6,5000
+6789,Beautifully Wrapped Bomb,Battle Item,6,5000
+6790,Aurestal Teaphora,Companion,6,5000
+6791,Grandma's Famous Panettone,Food,5,5000
+6792,Cinnamon and Spice Ice Cube,Ice Cube,6,5000
+6793,Aurestal Cookie Decoration Kit,Food,6,5000
+6794,Gift Label Stamp,Stamp,6,5000
+6795,Aurestal Meal Stamp,Stamp,6,5000
+6796,Grandma's Apron,Beauty,6,5000
+6797,Aurestal Deck of Cards,Toy,6,5000
+6798,Aurestal Card Trading Card,Trading Card,6,5000
+6799,Gnoeven Figurine,Figurine,6,5000
+6800,Dad's Deafening Bells,Battle Item,6,5000
+6801,Spice Rack Trading Card,Trading Card,6,5000
+6802,Crystal Audril Plushie,Plushie,2,463
+6803,Aries Plush,Plushie,5,1605
+6804,Aquarius Plush,Plushie,4,1147
+6805,Libra Plush,Plushie,3,962
+6806,Leo Plush,Plushie,1,151
+6807,Cancer Plush,Plushie,2,547
+6808,Peppermint Ducky Aurestal Sweater,Beauty,3,2141
+6809,Sunset Sugarcube Aurestal Sweater,Beauty,3,2957
+6810,Festive Wulfer Aurestal Sweater,Beauty,4,4388
+6811,End of Winter Figurine,Figurine,6,5000
+6812,Family Photo Jigsaw Puzzle,Toy,6,5000
+6813,Misty Isles Caper,Companion,3,3188
+6814,Auntie Betty's Recipe Book,Book,6,5000
+6815,Grandma Bertha's Recipe Book,Book,6,5000
+6816,Baking Supplies Figurine,Figurine,6,5000
+6817,Aquatic Krittle Pinata 2024,Pinata,4,2024
+6818,Fire Dovu Pinata 2024,Pinata,4,2024
+6819,Fairy Trido Pinata 2024,Pinata,4,2024
+6820,Space Wulfer Pinata 2024,Pinata,4,2024
+6821,Black Ori Pinata 2024,Pinata,4,2024
+6822,Peace Keychain,Toy,6,2023
+6823,Overflowing Tin of Tea Leaves,Food,5,2023
+6824,Peace Lily Necklace,Beauty,6,2023
+6825,Live Laugh Love Candle,Beauty,6,2023
+6826,Retractable White Flag,Battle Item,6,2023
+6827,Meditating Lugra Stamp,Stamp,6,2023
+6828,Friendship Paws Bookends,Toy,6,2023
+6829,Peaceful Oversized Aquatic Sweater,Beauty,6,2023
+6830,Peaceful Oversized Fire Sweater,Beauty,6,2023
+6831,Peaceful Oversized Fairy Sweater,Beauty,6,2023
+6832,Peaceful Oversized Space Sweater,Beauty,6,2023
+6833,Peaceful Oversized Black Sweater,Beauty,6,2023
+6834,Comforting Dovu Plush,Plushie,6,2023
+6835,Fluffy Dovu Quill,Toy,6,2023
+6836,Incomprehensible ICE Box,Openable,5,15000
+6837,Peatsi,Companion,5,1
+6838,Purring Pillow,Toy,3,770
+6839,Heated Blanket,Beauty,2,593
+6840,Taurus Plush,Plushie,1,262
+6841,Gemini Plush,Plushie,2,321
+6842,Sagittarius Plush,Plushie,3,801
+6843,Pisces Plush,Plushie,4,1048
+6844,Virgo Plush,Plushie,5,1655
+6845,Hisser Plush,Plushie,3,873
+6846,Homemade Card,Toy,6,2024
+6847,Book of Kindness,Book,6,2024
+6848,Breakfast in Bed,Food,5,2024
+6849,Repaired Beloved Plush,Plushie,6,2024
+6850,Painted Rocks,Toy,6,2024
+6851,Friends Sharing Umbrella Figurine,Figurine,6,2024
+6852,Pay it Forward Receipt,Book,6,2024
+6853,Sharing Flowers Stamp,Stamp,6,2024
+6854,Toy Donation Box,Toy,6,2024
+6855,Evenly-Split Chocolate Orange,Food,6,2024
+6856,Space Audril Morphing Potion,Morph,5,20000
+6857,Angelic Traptur Morphing Potion,Morph,5,20000
+6858,Pastel Building Blocks,Toy,3,958
+6859,Aroace Latte,Food,6,1
+6860,Lucky Boxers,Beauty,4,1773
+6861,Fake Winning Scratchcard,Toy,3,537
+6862,Enrichment Pie Ice Cube,Ice Cube,6,1500
+6863,Jacqueline Plush,Plushie,6,1500
+6864,Webbed Aurestal Hat,Beauty,6,1500
+6865,Skellyton Ducky,Toy,6,1500
+6866,Minus One Stamp,Stamp,6,1500
+6867,Hearty Snow Sprite,Companion,6,1500
+6868,Full Haunted Heart,Misc,4,1000
+6869,Full Jolly Heart,Misc,4,1000
+6870,Full Jolly Heart Ice Cube,Ice Cube,3,1000
+6871,Full Haunted Heart Ice Cube,Ice Cube,3,1000
+6872,Phantasmoire Traptur Amourok Plush,Plushie,6,1000
+6873,Phantasmoire Xephyr Amourok Plush,Plushie,6,1000
+6874,Aurestal Makoat Amourok Plush,Plushie,6,1000
+6875,Aurestal Trido Amourok Plush,Plushie,6,1000
+6876,Crystal Lugra Morphing Potion,Morph,5,20000
+6877,Angelic Lugra Morphing Potion,Morph,5,20000
+6878,Detective Plushie,Plushie,4,3187
+6879,Mystery Collar,Beauty,2,513
+6880,Skamper,Companion,6,1
+6881,Generous Laughter Plush,Plushie,6,1000
+6882,Peaceful Full Moon Plush,Plushie,6,1000
+6883,Prosperous Count Plush,Plushie,6,1000
+6884,Gingerbread Shield,Battle Item,6,1000
+6885,Pumpkin Carving Utility Belt,Battle Item,6,1000
+6886,Aurora Wedding Bands,Beauty,6,1000
+6887,Very Scary Ice Cube,Ice Cube,6,1000
+6888,Amourok Annual 2024,Book,6,1000
+6889,Minus One,Companion,6,1000
+6890,Hearty Snow Sprite Stamp,Stamp,6,1000
+6891,Snow Sprite and Minus One Figurine,Figurine,6,1000
+6892,Haunted Profile Skin,Profile Skin,6,1000
+6893,Jolly Profile Skin,Profile Skin,6,1000
+6894,Hummus Platter,Food,2,536
+6895,Party Quirkshake,Food,1,355
+6896,Orbie Teapot,Toy,4,1347
